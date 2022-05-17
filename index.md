@@ -36,7 +36,7 @@ FirebaseやGoogle アナリティクスの利用により収集されたデー�
 
 なお、FirebaseやGoogle アナリティクスのサービス利用による損害については、運営者は責任を負わないものとします。
 
-[Fireabse](https://policies.google.com/privacy)
+[Firebase](https://policies.google.com/privacy)
 
 [Google アナリティクス利用規約](https://marketingplatform.google.com/about/analytics/terms/jp/)
 
